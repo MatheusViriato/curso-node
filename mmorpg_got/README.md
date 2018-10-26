@@ -9,3 +9,4 @@ Utilizando conceitos de MVC e os seguintes pacotes:
 -bodyParser
 -mongodb
 -express-session
+-crypto
